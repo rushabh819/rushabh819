@@ -16,22 +16,7 @@
 - **Libraries & Frameworks**: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - **Databases**: MySQL, PostgreSQL, Snowflake
 - **Cloud Platforms**: AWS (S3, EC2, RDS), Azure
-- **Tools**: Git, GitHub, Jupyter Notebook, VS Code, Excel
-
----
-
-### 📈 GitHub Stats
-
-![Rushabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushabhparmar819&show_icons=true&theme=default)
-
----
-
-### 📂 Featured Projects
-
-- 🏠 [Predicting House Prices with Regression](#)  
-- 🧪 [Healthcare Data Analysis & Visualization](#)  
-- 🌱 [IoT-Based Transformer Monitoring System](#)  
-- 🌍 [Environmental Crime Reporting Web App](#)
+- **Tools**: Git, GitHub, Jupyter Notebook, VS Code, Excel, Word
 
 ---
 
